@@ -14,14 +14,22 @@ a przyszły programista może być już... właśnie przed ekranem 😄
 
 ---
 
+## 🖼️ Zrzut ekranu
+
+![Podgląd aplikacji](sssearcher.png)
+
+---
+
 ## ▶️ Uruchomienie
 
 Po prostu (w przypadku dowolnego linuxa)
 ```bash
-python sssearcher.py```
+python sssearcher.py
 ```
 
 Lub pobierz aplikację dla systemu Windows
+
+![Źróło pliku](searcher.exe)
 
 
 ## 🎨 Źródła ikon
