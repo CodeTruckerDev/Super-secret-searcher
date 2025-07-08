@@ -24,7 +24,7 @@ a przyszły programista może być już... właśnie przed ekranem 😄
 
 Po prostu (w przypadku dowolnego linuxa)
 ```bash
-python sssearcher.py
+python searcher.py
 ```
 
 Lub pobierz aplikację dla systemu Windows
