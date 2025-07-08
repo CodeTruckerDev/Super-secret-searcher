@@ -29,7 +29,7 @@ python searcher.py
 
 Lub pobierz aplikację dla systemu Windows
 
-💾 **[Kliknij tutaj, aby pobrać aplikację dla Windows](./searcher.exe)**  
+💾 **[Kliknij tutaj, aby pobrać aplikację dla Windows](https://github.com/CodeTruckerDev/Super-secret-searcher/releases/latest/download/searcher.exe)**  
 
 
 ## 🎨 Źródła ikon
