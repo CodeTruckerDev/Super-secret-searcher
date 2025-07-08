@@ -29,7 +29,7 @@ python sssearcher.py
 
 Lub pobierz aplikację dla systemu Windows
 
-![Źróło pliku](searcher.exe)
+💾 **[Kliknij tutaj, aby pobrać aplikację dla Windows](./searcher.exe)**  
 
 
 ## 🎨 Źródła ikon
