@@ -1,4 +1,4 @@
-## 🔍 **Super Secret Searcher** 
+## **Super Secret Searcher** 
 to nietypowa wyszukiwarka... przyszłych programistów.
 Nie używa AI, nie łączy się z bazą danych — opiera się wyłącznie na Twoim umyśle i odrobinie poczucia humoru.
 
@@ -7,20 +7,20 @@ a przyszły programista może być już... właśnie przed ekranem 😄
 
 ---
 
-## 📦 Wymagania
+## Wymagania
 
 - Python 3.x  
 - tkinter (wbudowany w większość instalacji Pythona)
 
 ---
 
-## 🖼️ Zrzut ekranu
+## Zrzut ekranu
 
 ![Podgląd aplikacji](sssearcher.png)
 
 ---
 
-## ▶️ Uruchomienie
+## Uruchomienie
 
 Po prostu (w przypadku dowolnego linuxa)
 ```bash
@@ -29,10 +29,10 @@ python searcher.py
 
 Lub pobierz aplikację dla systemu Windows
 
-💾 **[Kliknij tutaj, aby pobrać aplikację dla Windows](https://github.com/CodeTruckerDev/Super-secret-searcher/releases/latest/download/searcher.exe)**  
+**[Kliknij tutaj, aby pobrać aplikację dla Windows](https://github.com/CodeTruckerDev/Super-secret-searcher/releases/latest/download/searcher.exe)**  
 
 
-## 🎨 Źródła ikon
+## Źródła ikon
 
 - [Magnifying Glass icon](https://icons8.com/icon/Y6AAeSVIcpWt/search) by [Icons8](https://icons8.com)
 
